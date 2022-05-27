@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: eks-devops
-          image: argopractice
+          image: girish2730/argopractice:
           ports:
             - containerPort: 80
